@@ -105,7 +105,7 @@ export const constantRoutes = [{
       name: 'test',
       component: () => import('@/views/test/test'),
       meta: {
-        title: '测试',
+        title: '科目管理',
       }
     }]
   },
